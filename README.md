@@ -14,3 +14,5 @@ License][cc-by] https://www.fuss-ev.d
 
 
 ![](https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg)
+
+![](https://github.com/Wikinaut/mahnwachenfiguren/blob/master/m.png) ![](https://github.com/Wikinaut/mahnwachenfiguren/blob/master/w.png)
