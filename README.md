@@ -1,5 +1,5 @@
 # Mahnwachenfiguren
-Die Entwürfe für Mahnwachenfiguren sind von https://www.fuss-ev.de (Urheber, Rechteinhaber und Lizenzgeber) und werden hier mit ausdrücklicher Genehmigung veröffentlicht und dürfen gerne weiterbenutzt werden.
+Die Entwürfe für Mahnwachenfiguren sind von https://www.fuss-ev.de (Urheber, Rechteinhaber und Lizenzgeber) und werden hier mit ausdrücklicher Genehmigung veröffentlicht und dürfen **sehr gerne** weiterbenutzt werden.
 
 ### dxf-Dateien
 
