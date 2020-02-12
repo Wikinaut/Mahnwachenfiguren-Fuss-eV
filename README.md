@@ -16,7 +16,6 @@ License][cc-by] https://www.fuss-ev.d
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+<img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/w.png" height=300> <img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/m.png" height=300>
 
-![](https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg)
-
-![](https://github.com/Wikinaut/mahnwachenfiguren/blob/master/m.png) ![](https://github.com/Wikinaut/mahnwachenfiguren/blob/master/w.png)
+<img src="https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg" width=300>
