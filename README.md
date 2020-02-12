@@ -1,7 +1,7 @@
 # mahnwachenfiguren
-Die Entwürfe für Mahnwachenfiguren von e/ (Urheber, Rechteinhaber und Lizenzgeber)
+Die Entwürfe für Mahnwachenfiguren von https://www.fuss-ev.de (Urheber, Rechteinhaber und Lizenzgeber).
 
-[![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.d
+[![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.de
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by] https://www.fuss-ev.d
