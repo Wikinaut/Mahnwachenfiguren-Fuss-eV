@@ -13,6 +13,7 @@ Die wichtigsten beiden Dateien sind die beiden dxf-Dateien, mit denen aus geeign
 <img src="https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg" width=300>
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by] https://www.fuss-ev.d
+
 [![CC BY 4.0][cc-by-image]][cc-by] https://www.fuss-ev.d
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
