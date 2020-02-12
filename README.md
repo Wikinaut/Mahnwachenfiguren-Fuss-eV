@@ -1,6 +1,8 @@
 # Mahnwachenfiguren
 Die Entwürfe für Mahnwachenfiguren sind von https://www.fuss-ev.de (Urheber, Rechteinhaber und Lizenzgeber) und werden hier mit ausdrücklicher Genehmigung veröffentlicht und dürfen gerne weiterbenutzt werden.
 
+Die wichigsten Dateien sind die beiden dxf-Dateien, mit denen aus geeignetem Material die Figuren per Lasercutter geschnitten werden können. Motive für Kinder werden einfach durch Skalierung (kleineren Schnitt) erzeugt.
+
 [![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.de
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
