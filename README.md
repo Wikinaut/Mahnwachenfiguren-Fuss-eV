@@ -1,12 +1,12 @@
 # mahnwachenfiguren
-Entwürfe für Mahnwachenfiguren
+Die Entwürfe für Mahnwachenfiguren von e/ (Urheber, Rechteinhaber und Lizenzgeber)
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.d
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+License][cc-by] https://www.fuss-ev.d
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by] https://www.fuss-ev.d
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
@@ -14,4 +14,3 @@ License][cc-by].
 
 
 ![](https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg)
-
