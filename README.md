@@ -5,6 +5,13 @@ Die Entwürfe für Mahnwachenfiguren sind von https://www.fuss-ev.de (Urheber, R
 
 Die wichtigsten beiden Dateien sind die beiden dxf-Dateien, mit denen aus geeignetem Material die Figuren per Lasercutter geschnitten werden können. Motive für Kinder werden einfach durch Skalierung (kleineren Schnitt) erzeugt.
 
+### Produktionshinweise
+
+* Material Polystyrol 1000 x 500 mm, 5 mm stark
+* Preis 8€/Platte
+* Bezugsquelle: Modulor Berlin
+* Lascercutter im Makerspace Happylab Berlin
+
 [![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.de
 
 
