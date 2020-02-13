@@ -15,7 +15,7 @@ Die wichtigsten beiden Dateien sind die beiden dxf-Dateien, mit denen aus geeign
 [![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.de
 
 
-<img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/w.png" height=300> <img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/m.png" height=300> <img src="https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg" width=300>
+<img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/w.png" height=300>&nbsp;&nbsp;<img src="https://github.com/Wikinaut/mahnwachenfiguren/blob/master/m.png" height=300>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Wikinaut/mahnwachenfiguren/master/20191026_Mahnwache_Berkaer_Platz.jpg" width=300>
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by] https://www.fuss-ev.d
 
