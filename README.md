@@ -3,7 +3,7 @@ Die Entwürfe für Mahnwachenfiguren sind von https://www.fuss-ev.de (Urheber, R
 
 ### dxf-Dateien
 
-Die wichtigsten beiden Dateien sind die beiden dxf-Dateien, mit denen aus geeignetem Material die Figuren per Lasercutter geschnitten werden können. Motive für Kinder werden einfach durch Skalierung (kleineren Schnitt) erzeugt.
+Die wichtigsten Dateien sind die beiden dxf-Dateien, mit denen aus geeignetem Material die Figuren per Lasercutter geschnitten werden können. Motive für Kinder werden einfach durch Skalierung (kleineren Schnitt) erzeugt.
 
 ### Produktionshinweise
 
