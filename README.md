@@ -10,7 +10,7 @@ Die wichtigsten Dateien sind die beiden dxf-Dateien, mit denen aus geeignetem Ma
 * Material Polystyrol 1000 x 500 mm, 5 mm stark
 * Preis 8€/Platte
 * Bezugsquelle: Modulor Berlin
-* Lascercutter im Makerspace Happylab Berlin
+* Lasercutter im Makerspace Happylab Berlin
 
 [![CC BY 4.0][cc-by-shield]][cc-by] https://www.fuss-ev.de
 
